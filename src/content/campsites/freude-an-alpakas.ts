@@ -116,7 +116,7 @@ const freudeAnAlpakas: CampsiteConfig = {
     images: [
       { src: `${IMG}/gallery-2e794fdb67.webp`, alt: "Familie auf einer Erlebnistour mit Alpakas" },
       { src: `${IMG}/gallery-d3c4489d1a.webp`, alt: "Wohnwagen auf dem Stellplatz unter Bäumen" },
-      { src: `${IMG}/gallery-bc842770fc.webp`, alt: "Waschgelegenheit am Stellplatz" },
+      { src: `${IMG}/gallery-5863a913cd.webp`, alt: "Gerhard Unger mit Alpaka auf der Blumenwiese" },
       { src: `${IMG}/gallery-46face2f47.webp`, alt: "Blick über den geschotterten Stellplatz" },
     ],
   },
